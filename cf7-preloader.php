@@ -3,7 +3,7 @@
  * Plugin Name: CF7 Preloader
  * Plugin URI: https://github.com/adam-git1/cf7-preloader
  * Description: Adds preloader when submitting Contact Form 7 forms
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: adam-git1
  * Author URI: https://github.com/adam-git1
  * License: GPL v2 or later
